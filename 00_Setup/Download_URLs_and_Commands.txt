@@ -1,0 +1,27 @@
+Windows
+https://www.geany.org/
+
+BSD
+sudo pkg install nano -y
+sudo pkg install geany -y
+
+Debian / Ubuntu / Raspberry Pi
+sudo apt install -y nano
+sudo apt install -y geany
+
+macOS
+sudo port install geany
+
+https://www.mingw-w64.org/
+
+https://www.cygwin.com/
+
+gcc -Wall prog00.c
+g++ -Wall -std=c++2a prog00.c
+c++ -Wall -std=c++2a prog00.c
+
+https://www.codeblocks.org/
+
+https://code.visualstudio.com/
+
+code .
