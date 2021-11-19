@@ -1,4 +1,4 @@
-Windows
+Windows and macOS
 https://www.geany.org/
 
 BSD
@@ -11,6 +11,7 @@ sudo apt install -y geany
 
 macOS
 sudo port install geany
+sudo port install nano
 
 https://www.mingw-w64.org/
 
